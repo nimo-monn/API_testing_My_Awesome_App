@@ -1,6 +1,7 @@
 # API_testing_My_Awesome_App
 
-API testing of https://vue-demo.daniel-avellaneda.com site Using Postman Version 7.24.0
+API testing of https://vue-demo.daniel-avellaneda.com site using Postman Version 7.24.0
+
 Used Chai Assertion Library https://www.chaijs.com
 
 Login credentials
