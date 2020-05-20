@@ -1,4 +1,4 @@
-# API_testing_My_Avesome_App
+# API_testing_My_Awesome_App
 
 Postman doc URL: https://documenter.getpostman.com/view/9608495/Szt78AJ4
 
